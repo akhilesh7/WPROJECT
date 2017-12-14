@@ -1,0 +1,34 @@
+########################################################################
+Akhilesh Gandhe
+Dec 14 2017
+Hyderabad,India
+########################################################################
+
+## Installation
+
+Requires python 2.7
+
+### Set up and activate virtualenv ###
+
+`virtualenv akhibotE`
+
+`. akhibotE/bin/activate`
+
+### Install python level dependencies ###
+
+`pip install -r requirements.txt`
+
+### Run the command line interface ###
+
+You can use this script for getting the geographical location details
+like 
+	a. Latitude & Longitude
+	b. Weather forecast
+
+#### Give the permission using the command below ####
+	`chmod u+x akhibot.py`
+#### RUn using the command below ####
+	`python akhibot.py`
+
+## License ##
+
